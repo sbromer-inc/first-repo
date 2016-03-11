@@ -1,3 +1,5 @@
 # first-repo
 
-Project for sbromer inc
+Project for SBromer, Inc
+
+Team Members: Shay Bromer
